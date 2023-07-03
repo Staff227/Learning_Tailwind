@@ -1,1 +1,1 @@
-# Leaning_Tailwind
+# Learning_Tailwind
